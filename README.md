@@ -40,6 +40,7 @@ I have **3 years of industry experience**, 2.5 of them in a US-based **NLU & ML 
 - Portfolio: [vidurukalpana.github.io](https://vidurukalpana.github.io)
 - [mwvidurangikalpana@gmail.com](mailto:mwvidurangikalpana@gmail.com)
 - [linkedin.com/in/vidurangi-kalpana-9079301b7](https://www.linkedin.com/in/vidurangi-kalpana-9079301b7/)
+- Undergraduate Github Account: [VidurangiKalpana](https://github.com/VidurangiKalpana)
 
 ---
 
