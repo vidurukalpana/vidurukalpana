@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vidurangi Kalpana 👋</h1>
+<h1 align="center">Hi👋, I'm Vidurangi Kalpana</h1>
 
 <p align="center">
   <a href="https://vidurukalpana.github.io">
@@ -34,11 +34,12 @@ I'm a software engineer who builds AI systems from start to finish: the **data p
 ---
 
 ## Contact
-- Sri Lanka
 - Portfolio: [vidurukalpana.github.io](https://vidurukalpana.github.io)
 - [mwvidurangikalpana@gmail.com](mailto:mwvidurangikalpana@gmail.com)
 - [linkedin.com/in/vidurangi-kalpana-9079301b7](https://www.linkedin.com/in/vidurangi-kalpana-9079301b7/)
-- Undergraduate Github Account: [VidurangiKalpana](https://github.com/VidurangiKalpana)
+
+## Other Github Accounts
+- [VidurangiKalpana](https://github.com/VidurangiKalpana)
 
 ---
 
@@ -102,4 +103,4 @@ I'm a software engineer who builds AI systems from start to finish: the **data p
 
 ---
 
-<p align="center"><a href="https://vidurukalpana.github.io"><b>🌐 See my full portfolio →</b></a></p>
+<p align="center"><a href="https://vidurukalpana.github.io"><b>See my portfolio from here</b></a></p>
